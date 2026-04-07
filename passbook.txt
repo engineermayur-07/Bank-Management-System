@@ -1,0 +1,23 @@
+users={1010:"Arjun Kadam",1011:"Rohit Khokale",1012:"Gaurav Thombare",1013:"Dhiraj Mate",1014:"Mayur Gund",1015:"Abhishek Shinde"}
+pins={1010:3435,1011:2342,1012:6354,1013:2254,1014:3936,1015:3527}
+ 
+users_c={110:"Arjun Kadam",111:"Rohit Khokale",112:"Gaurav Thombare",113:"Dhiraj Mate",114:"Mayur Gund",115:"Abhishek Shinde"}
+pins_c={110:3438,111:2942,112:3354,113:5654,114:3936,115:5483}
+ 
+
+ 
+Mayur Gund
+ account :- current | 	withdrawal :- 30000 | 	current bal :- 4970000 |  06/04/2026, 20 : 56 : 25
+
+Mayur Gund
+ account :- current | 	deposit :- 3450 | 	current bal :- 4973450 |  06/04/2026, 20 : 56 : 43
+
+Mayur Gund
+ account :- current | 	deposit :- 3000 | 	current bal :- 4976450 |  06/04/2026, 21 : 00 : 33
+
+Mayur Gund
+ account :- current | 	withdrawal :- 34900 | 	current bal :- 4941550 |  06/04/2026, 21 : 01 : 09
+
+Mayur Gund
+ account :- current | 	deposit :- 230000 | 	current bal :- 5171550 |  07/04/2026, 07 : 40 : 34
+
